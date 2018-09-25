@@ -1,0 +1,46 @@
+nav{
+	text-align: right;
+}
+
+h1{
+	color:red;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.leftBox{
+	width: 46.67%;
+	float: left;
+	padding-left: 50px;
+}
+
+
+.rightBox{
+	width: 46.67%;
+	float: right;
+	color: blue;
+}
+
+h3{
+	text-align: center;
+	clear: right;
+	text-decoration: underline;
+	color: black;
+}
+
+.box{
+	clear: both;
+}
+
+iframe{
+	float: left;
+	margin-left: 50px;
+}
+
+#Awards ol li{
+	color: blue;
+}
+
+#PopMedia ul li{
+	color: red;
+}
